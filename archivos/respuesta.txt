@@ -1,0 +1,1 @@
+El problema que ocurrió es que no se realizó el commit porque las carpetas vacías no se consideran como un cambio en el proyecto.
